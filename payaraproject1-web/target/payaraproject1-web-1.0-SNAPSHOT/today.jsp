@@ -20,9 +20,9 @@
         <p>
         <%
             
-            out.print("hello from java");
+            out.print("hello from java!");
             //out.print(new DateInfo().today());
-%>
+        %>
         </p>
     </body>
 </html>
